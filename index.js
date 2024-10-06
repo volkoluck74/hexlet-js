@@ -1,3 +1,3 @@
-import splitFunction from "./src/index.js";
+import splitFunction from './src/index.js';
 
 splitFunction();
